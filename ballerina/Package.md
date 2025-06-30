@@ -33,7 +33,7 @@ CREATE EXTENSION vector;
 ### 1. Import the Module
 
 ```ballerina
-import wso2/pgvector;
+import ballerinax/pgvector;
 ```
 
 ### 2. Initialize Vector Store
